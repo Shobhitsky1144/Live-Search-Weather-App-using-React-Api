@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Live-Search-Weather-App-using-React-Api/static/css/main.f431f2e0.chunk.css",
+    "main.js": "/Live-Search-Weather-App-using-React-Api/static/js/main.3197a2d6.chunk.js",
+    "main.js.map": "/Live-Search-Weather-App-using-React-Api/static/js/main.3197a2d6.chunk.js.map",
+    "runtime-main.js": "/Live-Search-Weather-App-using-React-Api/static/js/runtime-main.3cc3288d.js",
+    "runtime-main.js.map": "/Live-Search-Weather-App-using-React-Api/static/js/runtime-main.3cc3288d.js.map",
+    "static/js/2.638ea3b0.chunk.js": "/Live-Search-Weather-App-using-React-Api/static/js/2.638ea3b0.chunk.js",
+    "static/js/2.638ea3b0.chunk.js.map": "/Live-Search-Weather-App-using-React-Api/static/js/2.638ea3b0.chunk.js.map",
+    "index.html": "/Live-Search-Weather-App-using-React-Api/index.html",
+    "static/css/main.f431f2e0.chunk.css.map": "/Live-Search-Weather-App-using-React-Api/static/css/main.f431f2e0.chunk.css.map",
+    "static/js/2.638ea3b0.chunk.js.LICENSE.txt": "/Live-Search-Weather-App-using-React-Api/static/js/2.638ea3b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cc3288d.js",
+    "static/js/2.638ea3b0.chunk.js",
+    "static/css/main.f431f2e0.chunk.css",
+    "static/js/main.3197a2d6.chunk.js"
+  ]
+}
