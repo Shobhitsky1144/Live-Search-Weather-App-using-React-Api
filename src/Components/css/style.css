@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width:100%;
+    height:100%;
+    color: lightgreen;
+    background-color: lime;
+}
