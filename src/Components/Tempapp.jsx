@@ -1,8 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
 
-// `http://api.openweathermap.org/data/2.5/weather?q=${search}&units=metric&appid=83f89d90353a7401ad33bc5cf4892337`
-// api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
 const Tempapp = () => {
 
     const [city, setCity] = useState(null);
@@ -10,7 +9,7 @@ const Tempapp = () => {
 
     useEffect(() => {
         const fetchApi = async () => {
-            const url = `http://api.openweathermap.org/data/2.5/weather?q=${search}&units=metric&appid=83f89d90353a7401ad33bc5cf4892337`
+            const url = `https://api.openweathermap.org/data/2.5/weather?q=${search}&units=metric&appid=83f89d90353a7401ad33bc5cf4892337`
             const response = await fetch(url);
 
             const resJson = await response.json();
